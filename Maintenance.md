@@ -59,7 +59,7 @@ that are overseen by the [CRAN Task View Initiative](https://github.com/cran-tas
   
 * _Content checks:_ In addition to the more technical sanity checks above, the content of the task
   view should be checked thoroughly, at least twice a year. Are there relevant new packages on CRAN
-  that should be included? Are the descriptions in the taks view still up to date? Should packages
+  that should be included? Are the descriptions in the task view still up to date? Should packages
   be removed that have been archived on CRAN or are otherwise outdated?  
   The package [CTVsuggest](https://github.com/DylanDijk/CTVsuggest) can help with discovering new
   relevant packages.
